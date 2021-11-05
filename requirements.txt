@@ -1,0 +1,5 @@
+Module - pywhatkit
+
+Verision - 5.1
+
+Python IDE(Editor) - any 
